@@ -2,6 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+![Dashboard Screenshot](Dashboard/Housing_1.PNG)
 ![Dashboard Screenshot](Dashboard/Housing_2.PNG)
 
 ## 📖 Project Overview
