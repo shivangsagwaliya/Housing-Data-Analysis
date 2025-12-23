@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Dashboard Screenshot](Dashboard/Housing 1.PNG)
+![Dashboard Screenshot](Dashboard/Housing_1.PNG)
 
 ## 📖 Project Overview
 This project is a comprehensive analysis of the housing market, designed to provide actionable insights into sales performance, pricing trends, and regional distributions. The dashboard connects directly to **Google BigQuery** for data ingestion, leveraging Power BI's capabilities to visualize complex datasets effectively.
